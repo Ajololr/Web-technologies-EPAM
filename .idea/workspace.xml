@@ -27,117 +27,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4845099b-b6b0-4919-a2a0-8a589d98348c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lab_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/bean/Entity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/bean/EntityArticle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/bean/EntityPayment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/bean/EntityRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/bean/EntitySubscription.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/bean/EntityUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/ArticleDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/ConnectionException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/ConnectionPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/Dao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/DaoException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/PaymentDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/SubscriptionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/filter/Filter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/services/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/services/ServiceExcept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/text.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/text_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/text_ru.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/404.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/500.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/add-publ.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/auth.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/details.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/payment.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/registration.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/log4j-api-2.14.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/log4j-core-2.14.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/tags/header.tag" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/text.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/text_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/text_ru.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/EntityArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/EntityPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/EntityRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/EntitySubscription.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/EntityUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ArticleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ConnectionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ConnectionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/Criteria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/DaoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/PaymentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/SubscriptionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filter/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/ServiceExcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/text.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/text_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/text_ru.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/add-publ.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Web-technologies-EPAM.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Periodicals-model.mwb" beforeDir="false" afterPath="$PROJECT_DIR$/Periodicals-model.mwb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Periodicals-model.mwb.bak" beforeDir="false" afterPath="$PROJECT_DIR$/Periodicals-model.mwb.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/periodicals.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/bean/Publication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/bean/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/controller/command/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/controller/command/impl/Register.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/controller/command/impl/SingIn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/dao/PaymentDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/dao/PublicationDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/dao/SubscriptionDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/dao/UserDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/dao/exception/DAOException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/dao/factory/DAOFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/dao/impl/SQLPublicationDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/dao/impl/SQLUserDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/service/ClientService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/service/PublicationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/service/exception/ServiceException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/service/factory/ServiceFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/service/impl/ClientServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/periodicals/src/by/androsov/periodicals/service/impl/PublicationServiceImpl.java" beforeDir="false" />
-    </list>
+    <list default="true" id="4845099b-b6b0-4919-a2a0-8a589d98348c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -299,8 +189,16 @@
       <updated>1607673635827</updated>
       <workItem from="1607673636903" duration="39027000" />
       <workItem from="1607763421644" duration="10459000" />
-      <workItem from="1607778931246" duration="8041000" />
+      <workItem from="1607778931246" duration="9032000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add labs solution">
+      <created>1607787814706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607787814706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,63 +218,69 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat: add labs solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add labs solution" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="479" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607784199258">
+    <state x="479" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607787714252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="479" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607784199258" />
+    <state x="479" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607787714252" />
     <state x="194" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607783805731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="194" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1607783805731" />
-    <state width="1024" height="293" key="GridCell.Tab.0.bottom" timestamp="1607786963659">
+    <state width="1024" height="293" key="GridCell.Tab.0.bottom" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607786963659" />
-    <state width="1024" height="293" key="GridCell.Tab.0.center" timestamp="1607786963659">
+    <state width="1024" height="293" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.0.center" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607786963659" />
-    <state width="1024" height="293" key="GridCell.Tab.0.left" timestamp="1607786963658">
+    <state width="1024" height="293" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.0.left" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607786963658" />
-    <state width="1024" height="293" key="GridCell.Tab.0.right" timestamp="1607786963659">
+    <state width="1024" height="293" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.0.right" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607786963659" />
-    <state width="1024" height="293" key="GridCell.Tab.1.bottom" timestamp="1607786963522">
+    <state width="1024" height="293" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.1.bottom" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607786963522" />
-    <state width="1024" height="293" key="GridCell.Tab.1.center" timestamp="1607786963522">
+    <state width="1024" height="293" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.1.center" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607786963522" />
-    <state width="1024" height="293" key="GridCell.Tab.1.left" timestamp="1607786963522">
+    <state width="1024" height="293" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.1.left" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607786963522" />
-    <state width="1024" height="293" key="GridCell.Tab.1.right" timestamp="1607786963522">
+    <state width="1024" height="293" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.1.right" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607786963522" />
-    <state width="1024" height="293" key="GridCell.Tab.2.bottom" timestamp="1607786963523">
+    <state width="1024" height="293" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.2.bottom" timestamp="1607787449078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607786963523" />
-    <state width="1024" height="293" key="GridCell.Tab.2.center" timestamp="1607786963522">
+    <state width="1024" height="293" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607787449078" />
+    <state width="1024" height="293" key="GridCell.Tab.2.center" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1607786963522" />
-    <state width="1024" height="293" key="GridCell.Tab.2.left" timestamp="1607786963522">
+    <state width="1024" height="293" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.2.left" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1607786963522" />
-    <state width="1024" height="293" key="GridCell.Tab.2.right" timestamp="1607786963523">
+    <state width="1024" height="293" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state width="1024" height="293" key="GridCell.Tab.2.right" timestamp="1607787449077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="293" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1607786963523" />
+    <state width="1024" height="293" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1607787449077" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607787821266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607787821266" />
   </component>
 </project>
